@@ -1,8 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/helyus1412/todo-list-api/app"
 
 func main() {
-	fmt.Println("hello world")
-	// apa ini apa ini
+	app.StartApp()
 }

@@ -1,0 +1,7 @@
+package query
+
+const (
+	QueryAddUser = `
+		
+	`
+)
