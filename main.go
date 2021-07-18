@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("hello world")
-	// apa ini apa
+	// apa ini apa ini
 }
